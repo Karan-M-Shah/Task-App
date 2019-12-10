@@ -1,0 +1,4 @@
+/Users/607884/mongodb/bin/mongod.exe --dbpath=/Users/607884/mongodb-data
+
+Keep this running on a terminal
+to keep the server running 
